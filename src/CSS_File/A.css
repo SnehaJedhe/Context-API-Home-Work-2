@@ -1,0 +1,41 @@
+#A{
+  
+    /* border: 2px solid rgb(41, 39, 39); */
+      height: 25%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-around;
+      margin-top: 2rem;
+      color: rgb(24, 18, 18);
+      padding: 1rem;
+      /* background-color: wheat; */
+    
+  }
+  
+
+.data{
+    margin-top: 2rem;
+}
+input{
+    width:20rem;
+   height: 2rem;
+   padding: 1rem;
+   font-size: 1rem;
+}
+
+button{
+    margin-left: 1rem;
+    width: 8rem;
+    height: 2rem;
+    font-size: 1rem;
+}
+
+h2{
+    font-size: 1.6rem;
+}
+p{
+    font-size: 1.5rem;
+    color: brown;
+    margin-top: 1rem;
+}
